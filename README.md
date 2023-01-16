@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Es es un respositorio del curso Full STACK
+Este un proyecto de un repositorio desde GitHub y clonarlo 
